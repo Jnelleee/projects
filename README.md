@@ -3,7 +3,6 @@
 This repository showcases a collection of my academic projects and personal projects. 
 The goal of these projects is to leverage on data to generate meaningful and impactful insights that can help support decision-making processes. 
 
-The projects include: 
 
 # Academic Projects
 J&T Demand Forecasting and Route Optimization: 
