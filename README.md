@@ -6,7 +6,7 @@ The goal of these projects is to leverage on data to generate meaningful and imp
 
 # Academic Projects
 Relational Databases: 
-This project applied SQL to provide inights and recommendations on analytical questions focused on electric vehicle (EV) adoption, emissions, infrastructure planning, and climate impact.
+This project applied SQL and noSQL queries to provide inights and recommendations on analytical questions focused on electric vehicle (EV) adoption, emissions, infrastructure planning, and climate impact.
 
 Analytics II: 
 This project focuses on solving operational challenges faced by J&T Express, a leading logistics provider in Southeast Asia and China. The company has been experiencing delayed deliveries and parcel bottlenecks at hubs, largely due to inefficiencies in route planning and an inability to anticipate fluctuations in e-commerce demand. Thus, the aim of this project is to address these ineffiencies through demand forecasting and route optimization predictive analytics. 
